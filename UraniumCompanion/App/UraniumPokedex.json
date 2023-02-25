@@ -1,0 +1,7480 @@
+[
+  {
+    "Id": 1,
+    "Name": "Orchynx",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Fighting"
+      ],
+      "SuperWeak": [
+        "Fire"
+      ]
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "Metalynx",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Fighting"
+      ],
+      "SuperWeak": [
+        "Fire"
+      ]
+    }
+  },
+  {
+    "Id": 3,
+    "Name": "Raptorch",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fire",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Ground",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 4,
+    "Name": "Archilles",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fire",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Ground",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 5,
+    "Name": "Eletux",
+    "PrimaryType": "Water",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Steel"
+      ],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Ice",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Grass",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 6,
+    "Name": "Electruxo",
+    "PrimaryType": "Water",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Steel"
+      ],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Ice",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Grass",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 7,
+    "Name": "Chyinmunk",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 8,
+    "Name": "Kinetmunk",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 9,
+    "Name": "Birbie",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 10,
+    "Name": "Aveden",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 11,
+    "Name": "Splendifowl",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 12,
+    "Name": "Cubbug",
+    "PrimaryType": "Bug",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Nuclear",
+        "Rock"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 13,
+    "Name": "Cubblfly",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [
+        "Fighting"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Poison",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 14,
+    "Name": "Nimflora",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [
+        "Fighting"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Poison",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 15,
+    "Name": "Barewl",
+    "PrimaryType": "Steel",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Flying",
+        "Normal"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Ice",
+        "Psychic",
+        "Rock"
+      ],
+      "Normal": [
+        "Dark",
+        "Electric",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Nuclear",
+        "Steel"
+      ],
+      "Weak": [
+        "Water"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Ground"
+      ]
+    }
+  },
+  {
+    "Id": 16,
+    "Name": "Dearewl",
+    "PrimaryType": "Steel",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Flying",
+        "Normal"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Ice",
+        "Psychic",
+        "Rock"
+      ],
+      "Normal": [
+        "Dark",
+        "Electric",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Nuclear",
+        "Steel"
+      ],
+      "Weak": [
+        "Water"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Ground"
+      ]
+    }
+  },
+  {
+    "Id": 17,
+    "Name": "Gararewl",
+    "PrimaryType": "Steel",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Nuclear",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Electric",
+        "Ghost",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 18,
+    "Name": "Grozard",
+    "PrimaryType": "Ground",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Grass",
+        "Ice",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 19,
+    "Name": "Terlard",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Poison",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 20,
+    "Name": "Tonemy",
+    "PrimaryType": "Poison",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 21,
+    "Name": "Tofurang",
+    "PrimaryType": "Poison",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 22,
+    "Name": "Dunsparce",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 23,
+    "Name": "Dunseraph",
+    "PrimaryType": "Dragon",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Fire",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Electric",
+        "Flying",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 24,
+    "Name": "Fortog",
+    "PrimaryType": "Water",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 25,
+    "Name": "Folerog",
+    "PrimaryType": "Water",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 26,
+    "Name": "Blubelrog",
+    "PrimaryType": "Water",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 27,
+    "Name": "Magikarp",
+    "PrimaryType": "Water",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 28,
+    "Name": "Gyarados",
+    "PrimaryType": "Water",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Fire",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Electric",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 29,
+    "Name": "Feleng",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 30,
+    "Name": "Felunge",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 31,
+    "Name": "Feliger",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 32,
+    "Name": "Mankey",
+    "PrimaryType": "Fighting",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 33,
+    "Name": "Primeape",
+    "PrimaryType": "Fighting",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 34,
+    "Name": "Empirilla",
+    "PrimaryType": "Fighting",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 35,
+    "Name": "Owten",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 36,
+    "Name": "Eshouten",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 37,
+    "Name": "Lotad",
+    "PrimaryType": "Water",
+    "SecondaryType": "Grass",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Water"
+      ],
+      "Resisted": [
+        "Ground",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Flying",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 38,
+    "Name": "Lombre",
+    "PrimaryType": "Water",
+    "SecondaryType": "Grass",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Water"
+      ],
+      "Resisted": [
+        "Ground",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Flying",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 39,
+    "Name": "Ludicolo",
+    "PrimaryType": "Water",
+    "SecondaryType": "Grass",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Water"
+      ],
+      "Resisted": [
+        "Ground",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Flying",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 40,
+    "Name": "Smore",
+    "PrimaryType": "Bug",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Nuclear",
+        "Rock"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 41,
+    "Name": "Firoke",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Flying",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 42,
+    "Name": "Brailip",
+    "PrimaryType": "Water",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Electric",
+        "Ghost",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 43,
+    "Name": "Brainoar",
+    "PrimaryType": "Water",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Electric",
+        "Ghost",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 44,
+    "Name": "Ekans",
+    "PrimaryType": "Poison",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 45,
+    "Name": "Arbok",
+    "PrimaryType": "Poison",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 46,
+    "Name": "Tancoon",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Normal",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 47,
+    "Name": "Tanscure",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Normal",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 48,
+    "Name": "Sponee",
+    "PrimaryType": "Bug",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Nuclear",
+        "Rock"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 49,
+    "Name": "Sponaree",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Water",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Ground",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Electric",
+        "Flying",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 50,
+    "Name": "Pahar",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Electric",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 51,
+    "Name": "Palij",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Electric",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 52,
+    "Name": "Pajay",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Electric",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 53,
+    "Name": "Jerbolta",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Flying",
+        "Poison",
+        "Rock",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Grass",
+        "Ground",
+        "Ice"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 54,
+    "Name": "Comite",
+    "PrimaryType": "Rock",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Nuclear",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 55,
+    "Name": "Cometeor",
+    "PrimaryType": "Rock",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ice",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 56,
+    "Name": "Astronite",
+    "PrimaryType": "Rock",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ice",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 57,
+    "Name": "Mareep",
+    "PrimaryType": "Electric",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 58,
+    "Name": "Flaaffy",
+    "PrimaryType": "Electric",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 59,
+    "Name": "Ampharos",
+    "PrimaryType": "Electric",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 60,
+    "Name": "Baashaun",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [
+        "Dark"
+      ],
+      "Resisted": [
+        "Ghost",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Fairy",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 61,
+    "Name": "Baaschaf",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [
+        "Dark"
+      ],
+      "Resisted": [
+        "Ghost",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Fairy",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 62,
+    "Name": "Baariette",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [
+        "Dark"
+      ],
+      "Resisted": [
+        "Ghost",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Fairy",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 63,
+    "Name": "Tricwe",
+    "PrimaryType": "Bug",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Nuclear",
+        "Rock"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 64,
+    "Name": "Harylect",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 65,
+    "Name": "Costraw",
+    "PrimaryType": "Poison",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fighting"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 66,
+    "Name": "Trawpint",
+    "PrimaryType": "Poison",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fighting"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 67,
+    "Name": "Lunapup",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [
+        "Rock"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Poison"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Grass",
+        "Ice",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 68,
+    "Name": "Herolune",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [
+        "Rock"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Poison"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Grass",
+        "Ice",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 69,
+    "Name": "Minyan",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 70,
+    "Name": "Vilucard",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 71,
+    "Name": "Buizel",
+    "PrimaryType": "Water",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 72,
+    "Name": "Floatzel",
+    "PrimaryType": "Water",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 73,
+    "Name": "Modrille",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost",
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fire",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Ice"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 74,
+    "Name": "Drilgann",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost",
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fire",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Ice"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 75,
+    "Name": "Gligar",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 76,
+    "Name": "Gliscor",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric",
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 77,
+    "Name": "Sableye",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Ghost",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 78,
+    "Name": "Cocaran",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 79,
+    "Name": "Cararalm",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 80,
+    "Name": "Cocancer",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 81,
+    "Name": "Corsola",
+    "PrimaryType": "Water",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire"
+      ],
+      "Resisted": [
+        "Flying",
+        "Ice",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Grass",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 82,
+    "Name": "Corsoreef",
+    "PrimaryType": "Water",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire"
+      ],
+      "Resisted": [
+        "Flying",
+        "Ice",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Grass",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 83,
+    "Name": "Tubjaw",
+    "PrimaryType": "Water",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 84,
+    "Name": "Tubareel",
+    "PrimaryType": "Water",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 85,
+    "Name": "Cassnail",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Water",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Grass",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 86,
+    "Name": "Sableau",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Water",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Grass",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 87,
+    "Name": "Escartress",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Water",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Grass",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 88,
+    "Name": "Nupin",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Electric"
+      ],
+      "Resisted": [
+        "Grass",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Ice",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 89,
+    "Name": "Gellin",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Electric"
+      ],
+      "Resisted": [
+        "Grass",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Ice",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 90,
+    "Name": "Cottonee",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Fairy",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Ice",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Poison"
+      ]
+    }
+  },
+  {
+    "Id": 91,
+    "Name": "Whimsicott",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Fairy",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Ice",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Poison"
+      ]
+    }
+  },
+  {
+    "Id": 92,
+    "Name": "Misdreavus",
+    "PrimaryType": "Ghost",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Poison"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 93,
+    "Name": "Mismagius",
+    "PrimaryType": "Ghost",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Poison"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 94,
+    "Name": "Barand",
+    "PrimaryType": "Dragon",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Fire",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy",
+        "Ice",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 95,
+    "Name": "Glaslug",
+    "PrimaryType": "Water",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Ice"
+      ],
+      "Resisted": [
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 96,
+    "Name": "Glavinug",
+    "PrimaryType": "Water",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Ice"
+      ],
+      "Resisted": [
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 97,
+    "Name": "S51",
+    "PrimaryType": "Psychic",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Psychic"
+      ],
+      "Resisted": [
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Electric",
+        "Fighting",
+        "Nuclear",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 98,
+    "Name": "S51-A",
+    "PrimaryType": "Psychic",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Psychic"
+      ],
+      "Resisted": [
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Electric",
+        "Fighting",
+        "Nuclear",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 99,
+    "Name": "Paraudio",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 100,
+    "Name": "Paraboom",
+    "PrimaryType": "Normal",
+    "SecondaryType": "Psychic",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 101,
+    "Name": "Flager",
+    "PrimaryType": "Fire",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 102,
+    "Name": "Inflagetah",
+    "PrimaryType": "Fire",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 103,
+    "Name": "Chimical",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Bug",
+        "Fairy",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Flying",
+        "Ghost",
+        "Normal"
+      ],
+      "Weak": [
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 104,
+    "Name": "Chimaconda",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Bug",
+        "Fairy",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Flying",
+        "Ghost",
+        "Normal"
+      ],
+      "Weak": [
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 105,
+    "Name": "Tikiki",
+    "PrimaryType": "Grass",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Grass",
+        "Ground",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Nuclear",
+        "Poison"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 106,
+    "Name": "Frikitiki",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Electric",
+        "Fairy",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Flying",
+        "Poison",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 107,
+    "Name": "Unymph",
+    "PrimaryType": "Bug",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Nuclear",
+        "Rock"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 108,
+    "Name": "Harptera",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Fighting",
+        "Grass"
+      ],
+      "Resisted": [
+        "Bug"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ice"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 109,
+    "Name": "Chicoatl",
+    "PrimaryType": "Grass",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Grass",
+        "Ground",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Nuclear",
+        "Poison"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 110,
+    "Name": "Quetzoral",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Fighting",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Poison",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 111,
+    "Name": "Coatlith",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Electric",
+        "Grass",
+        "Water"
+      ],
+      "Resisted": [
+        "Ground"
+      ],
+      "Normal": [
+        "Dark",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Ice",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 112,
+    "Name": "Tracton",
+    "PrimaryType": "Dragon",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Grass"
+      ],
+      "Resisted": [
+        "Bug",
+        "Electric",
+        "Flying",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 113,
+    "Name": "Snopach",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Flying",
+        "Ice",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Psychic"
+      ],
+      "Weak": [
+        "Grass",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Nuclear",
+        "Steel"
+      ]
+    }
+  },
+  {
+    "Id": 114,
+    "Name": "Dermafrost",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Flying",
+        "Ice",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Psychic"
+      ],
+      "Weak": [
+        "Grass",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Fighting",
+        "Nuclear",
+        "Steel"
+      ]
+    }
+  },
+  {
+    "Id": 115,
+    "Name": "Slothohm",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Flying"
+      ],
+      "Resisted": [
+        "Electric",
+        "Fire",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Fighting",
+        "Grass",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 116,
+    "Name": "Theriamp",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Flying"
+      ],
+      "Resisted": [
+        "Electric",
+        "Fire",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Fighting",
+        "Grass",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 117,
+    "Name": "Titanice",
+    "PrimaryType": "Ice",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Nuclear",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 118,
+    "Name": "Frynai",
+    "PrimaryType": "Water",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 119,
+    "Name": "Saidine",
+    "PrimaryType": "Water",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 120,
+    "Name": "Daikatuna",
+    "PrimaryType": "Water",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 121,
+    "Name": "Selkid",
+    "PrimaryType": "Water",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Water"
+      ],
+      "Normal": [
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 122,
+    "Name": "Syrentide",
+    "PrimaryType": "Water",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fighting",
+        "Fire",
+        "Ice",
+        "Water"
+      ],
+      "Normal": [
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Poison"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 123,
+    "Name": "Spritzee",
+    "PrimaryType": "Fairy",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fighting"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Nuclear",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 124,
+    "Name": "Aromatisse",
+    "PrimaryType": "Fairy",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fighting"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Nuclear",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 125,
+    "Name": "Miasmedic",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Poison",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Fighting"
+      ],
+      "Resisted": [
+        "Dark",
+        "Fairy",
+        "Grass"
+      ],
+      "Normal": [
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Psychic",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 126,
+    "Name": "Jackdeary",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Dark"
+      ],
+      "Resisted": [
+        "Fighting",
+        "Rock"
+      ],
+      "Normal": [
+        "Electric",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 127,
+    "Name": "Winotinger",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Dark"
+      ],
+      "Resisted": [
+        "Fighting",
+        "Rock"
+      ],
+      "Normal": [
+        "Electric",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 128,
+    "Name": "Duplicat",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 129,
+    "Name": "Eevee",
+    "PrimaryType": "Normal",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 130,
+    "Name": "Vaporeon",
+    "PrimaryType": "Water",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Electric",
+        "Grass",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 131,
+    "Name": "Jolteon",
+    "PrimaryType": "Electric",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 132,
+    "Name": "Flareon",
+    "PrimaryType": "Fire",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 133,
+    "Name": "Espeon",
+    "PrimaryType": "Psychic",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 134,
+    "Name": "Umbreon",
+    "PrimaryType": "Dark",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 135,
+    "Name": "Leafeon",
+    "PrimaryType": "Grass",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Grass",
+        "Ground",
+        "Water"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Steel"
+      ],
+      "Weak": [
+        "Bug",
+        "Fire",
+        "Flying",
+        "Ice",
+        "Nuclear",
+        "Poison"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 136,
+    "Name": "Glaceon",
+    "PrimaryType": "Ice",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Nuclear",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 137,
+    "Name": "Sylveon",
+    "PrimaryType": "Fairy",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fighting"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Nuclear",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 138,
+    "Name": "Nucleon",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 139,
+    "Name": "Ratsy",
+    "PrimaryType": "Dark",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 140,
+    "Name": "Raffiti",
+    "PrimaryType": "Dark",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Ghost"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 141,
+    "Name": "Gargryph",
+    "PrimaryType": "Rock",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Normal",
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Nuclear",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 142,
+    "Name": "Masking",
+    "PrimaryType": "Psychic",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Fighting",
+        "Psychic"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 143,
+    "Name": "Dramsama",
+    "PrimaryType": "Psychic",
+    "SecondaryType": "Ghost",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison",
+        "Psychic"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [],
+      "SuperWeak": [
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 144,
+    "Name": "Antarki",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [
+        "Bug"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Flying",
+        "Psychic"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 145,
+    "Name": "Chupacho",
+    "PrimaryType": "Poison",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Poison"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear",
+        "Psychic"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 146,
+    "Name": "Luchabra",
+    "PrimaryType": "Poison",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Bug"
+      ],
+      "Resisted": [
+        "Dark",
+        "Fighting",
+        "Grass",
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Flying",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Psychic"
+      ]
+    }
+  },
+  {
+    "Id": 147,
+    "Name": "Linkite",
+    "PrimaryType": "Ghost",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Poison"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Dark",
+        "Ghost",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 148,
+    "Name": "Chainite",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 149,
+    "Name": "Pufluff",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Ice"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Poison",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Steel"
+      ]
+    }
+  },
+  {
+    "Id": 150,
+    "Name": "Alpico",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Ice"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Poison",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Steel"
+      ]
+    }
+  },
+  {
+    "Id": 151,
+    "Name": "Anderind",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Ground",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Grass",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 152,
+    "Name": "Colarva",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Grass",
+        "Ground",
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Flying",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Fire",
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 153,
+    "Name": "Frosulo",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Grass",
+        "Ground",
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Flying",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Fire",
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 154,
+    "Name": "Frosthra",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Grass",
+        "Ground",
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Flying",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Fire",
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 155,
+    "Name": "Fafurr",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 156,
+    "Name": "Fafninter",
+    "PrimaryType": "Ice",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Rock",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 157,
+    "Name": "Shrimputy",
+    "PrimaryType": "Water",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire",
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Fairy"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 158,
+    "Name": "Krilvolver",
+    "PrimaryType": "Water",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire",
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Fairy"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 159,
+    "Name": "Lavent",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire",
+        "Grass"
+      ],
+      "Resisted": [
+        "Bug",
+        "Electric",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Dragon",
+        "Ground",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 160,
+    "Name": "Swabone",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [
+        "Bug"
+      ],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 161,
+    "Name": "Skelerogue",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [
+        "Bug"
+      ],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 162,
+    "Name": "Navighast",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [
+        "Bug"
+      ],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fire",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Flying",
+        "Ghost",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 163,
+    "Name": "Stenowatt",
+    "PrimaryType": "Electric",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Ground",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 164,
+    "Name": "Jungore",
+    "PrimaryType": "Fighting",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fire",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Flying",
+        "Ghost",
+        "Ice"
+      ],
+      "Weak": [
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 165,
+    "Name": "Majungold",
+    "PrimaryType": "Fighting",
+    "SecondaryType": "Rock",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Fire",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Dragon",
+        "Electric",
+        "Flying",
+        "Ghost",
+        "Ice"
+      ],
+      "Weak": [
+        "Fairy",
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 166,
+    "Name": "Hagoop",
+    "PrimaryType": "Poison",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 167,
+    "Name": "Haagross",
+    "PrimaryType": "Poison",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Flying",
+        "Grass",
+        "Poison",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Ground",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 168,
+    "Name": "Xenomite",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 169,
+    "Name": "Xenogen",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 170,
+    "Name": "Xenoqueen",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 171,
+    "Name": "Hazma",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 172,
+    "Name": "Geigeroach",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Nuclear",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [],
+      "Normal": [
+        "Fighting",
+        "Grass",
+        "Ground",
+        "Nuclear"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Fire",
+        "Flying",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 173,
+    "Name": "Minicorn",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Normal",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon",
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 174,
+    "Name": "Kiricorn",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Normal",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon",
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark"
+      ],
+      "Normal": [
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Psychic",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 175,
+    "Name": "Oblivicorn",
+    "PrimaryType": "Fairy",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon",
+        "Psychic"
+      ],
+      "DoubleResisted": [
+        "Dark"
+      ],
+      "Resisted": [
+        "Ghost"
+      ],
+      "Normal": [
+        "Bug",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Fairy",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 176,
+    "Name": "Luxi",
+    "PrimaryType": "Dragon",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fairy",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 177,
+    "Name": "Luxor",
+    "PrimaryType": "Dragon",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fairy",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 178,
+    "Name": "Luxelong",
+    "PrimaryType": "Dragon",
+    "SecondaryType": "Fairy",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Dragon"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Dark",
+        "Electric",
+        "Fighting",
+        "Fire",
+        "Grass",
+        "Water"
+      ],
+      "Normal": [
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Fairy",
+        "Ice",
+        "Poison",
+        "Steel"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 179,
+    "Name": "Praseopunk",
+    "PrimaryType": "Psychic",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Fighting",
+        "Flying",
+        "Psychic",
+        "Steel"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 180,
+    "Name": "Neopunk",
+    "PrimaryType": "Psychic",
+    "SecondaryType": "Electric",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Fighting",
+        "Flying",
+        "Psychic",
+        "Steel"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Rock",
+        "Water"
+      ],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Ghost",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 181,
+    "Name": "Sheebit",
+    "PrimaryType": "Ground",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Grass",
+        "Ice",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 182,
+    "Name": "Terrabbit",
+    "PrimaryType": "Ground",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Grass",
+        "Ice",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 183,
+    "Name": "Laissure",
+    "PrimaryType": "Ground",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Poison",
+        "Rock"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Grass",
+        "Ice",
+        "Nuclear"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 184,
+    "Name": "Volchik",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Flying",
+        "Grass",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 185,
+    "Name": "Voltasu",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Flying",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fighting",
+        "Flying",
+        "Grass",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fire",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Ice",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 186,
+    "Name": "Yatagaryu",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Dragon",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Electric"
+      ],
+      "Resisted": [
+        "Fire",
+        "Flying",
+        "Grass",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Dragon",
+        "Fairy",
+        "Ground",
+        "Ice"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 187,
+    "Name": "Devimp",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Poison"
+      ],
+      "Weak": [
+        "Fighting",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 188,
+    "Name": "Fallengel",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Poison"
+      ],
+      "Weak": [
+        "Fighting",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 189,
+    "Name": "Beliaddon",
+    "PrimaryType": "Fire",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Poison"
+      ],
+      "Weak": [
+        "Fighting",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 190,
+    "Name": "Seikamater",
+    "PrimaryType": "Bug",
+    "SecondaryType": "Normal",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ghost"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Grass",
+        "Ground"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Flying",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 191,
+    "Name": "Garlikid",
+    "PrimaryType": "Grass",
+    "SecondaryType": "Fighting",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Electric",
+        "Grass",
+        "Ground",
+        "Rock",
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dragon",
+        "Fighting",
+        "Ghost",
+        "Normal",
+        "Steel"
+      ],
+      "Weak": [
+        "Fairy",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Psychic"
+      ],
+      "SuperWeak": [
+        "Flying",
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 192,
+    "Name": "Baitatao",
+    "PrimaryType": "Water",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Fire",
+        "Ice",
+        "Steel"
+      ],
+      "Resisted": [
+        "Bug",
+        "Fairy"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Fighting",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Water"
+      ],
+      "Weak": [
+        "Electric",
+        "Ground",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 193,
+    "Name": "Leviathao",
+    "PrimaryType": "Water",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [
+        "Ice"
+      ],
+      "Resisted": [
+        "Water"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel"
+      ],
+      "Weak": [
+        "Electric",
+        "Fighting",
+        "Grass",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 194,
+    "Name": "Krakanao",
+    "PrimaryType": "Water",
+    "SecondaryType": "Dark",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Fire",
+        "Ghost",
+        "Ice",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Flying",
+        "Ground",
+        "Normal",
+        "Poison",
+        "Rock"
+      ],
+      "Weak": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 195,
+    "Name": "Lanthan",
+    "PrimaryType": "Ground",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Electric",
+        "Poison"
+      ],
+      "DoubleResisted": [
+        "Rock"
+      ],
+      "Resisted": [
+        "Bug",
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Normal",
+        "Psychic",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Nuclear",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Ground"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 196,
+    "Name": "Actan",
+    "PrimaryType": "Dark",
+    "SecondaryType": "Steel",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Poison",
+        "Psychic"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ice",
+        "Normal",
+        "Rock",
+        "Steel"
+      ],
+      "Normal": [
+        "Bug",
+        "Electric",
+        "Fairy",
+        "Nuclear",
+        "Water"
+      ],
+      "Weak": [
+        "Fire",
+        "Ground"
+      ],
+      "SuperWeak": [
+        "Fighting"
+      ]
+    }
+  },
+  {
+    "Id": 197,
+    "Name": "Urayne",
+    "PrimaryType": "Nuclear",
+    "SecondaryType": null,
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Nuclear"
+      ],
+      "Normal": [],
+      "Weak": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Electric",
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Grass",
+        "Ground",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Rock",
+        "Steel",
+        "Water"
+      ],
+      "SuperWeak": []
+    }
+  },
+  {
+    "Id": 198,
+    "Name": "Aotius",
+    "PrimaryType": "Flying",
+    "SecondaryType": "Fire",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Ground"
+      ],
+      "DoubleResisted": [
+        "Bug",
+        "Grass"
+      ],
+      "Resisted": [
+        "Fairy",
+        "Fighting",
+        "Fire",
+        "Steel"
+      ],
+      "Normal": [
+        "Dark",
+        "Dragon",
+        "Flying",
+        "Ghost",
+        "Ice",
+        "Normal",
+        "Poison",
+        "Psychic"
+      ],
+      "Weak": [
+        "Electric",
+        "Water"
+      ],
+      "SuperWeak": [
+        "Nuclear",
+        "Rock"
+      ]
+    }
+  },
+  {
+    "Id": 199,
+    "Name": "Mutios",
+    "PrimaryType": "Ghost",
+    "SecondaryType": "Water",
+    "TypeEffectivenesses": {
+      "Immune": [
+        "Fighting",
+        "Normal"
+      ],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Bug",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Steel",
+        "Water"
+      ],
+      "Normal": [
+        "Dragon",
+        "Fairy",
+        "Flying",
+        "Ground",
+        "Psychic",
+        "Rock"
+      ],
+      "Weak": [
+        "Dark",
+        "Electric",
+        "Ghost",
+        "Grass"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  },
+  {
+    "Id": 200,
+    "Name": "Zephy",
+    "PrimaryType": "Electric",
+    "SecondaryType": "Ice",
+    "TypeEffectivenesses": {
+      "Immune": [],
+      "DoubleResisted": [],
+      "Resisted": [
+        "Electric",
+        "Flying",
+        "Ice"
+      ],
+      "Normal": [
+        "Bug",
+        "Dark",
+        "Dragon",
+        "Fairy",
+        "Ghost",
+        "Grass",
+        "Normal",
+        "Poison",
+        "Psychic",
+        "Steel",
+        "Water"
+      ],
+      "Weak": [
+        "Fighting",
+        "Fire",
+        "Ground",
+        "Rock"
+      ],
+      "SuperWeak": [
+        "Nuclear"
+      ]
+    }
+  }
+]

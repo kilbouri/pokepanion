@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="FuzzySharp" Version="2.0.2" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+    <PackageReference Include="Magick.NET-Q16-x64" Version="12.2.0" />
+    <PackageReference Include="Magick.NET.SystemDrawing" Version="6.1.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Tesseract" Version="4.1.1" />
+    <PackageReference Include="Tesseract.Drawing" Version="4.1.1" />
+  </ItemGroup>
+</Project>
